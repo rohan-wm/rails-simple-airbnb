@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+ .more-info-box {
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+  text-align: left;
+  width: 100%;
+ }
+.more-info-text {
+  color: rgb(0, 85, 255); /* Customize the color as needed */
+}
+
+.card-body {
+  background-color: lightgray;
+}
+
+ul {
+  list-style-type: none;
+}
